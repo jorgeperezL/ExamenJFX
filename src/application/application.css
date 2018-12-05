@@ -1,0 +1,10 @@
+.Button{
+-fx-background-color: #F8A705;
+}
+.pane{
+-fx-background-color:  #6DA9CE;
+}
+.texto{
+-fx-font-family: "Dokdo";
+-fx-font-size: 15.0;
+}
